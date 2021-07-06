@@ -1,0 +1,37 @@
+.usermenu_container {
+  display: flex;
+  padding-right: 25px;
+  align-items: center;
+}
+
+.username {
+  font-weight: 500;
+  font-size: 18px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btn {
+  height: 35px;
+  background: rgb(2, 2, 32, 0.7);
+  border-color: rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  color: #f5e6e6;
+  text-decoration: none;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  width: 120px;
+  line-height: 20px;
+  margin: 20px auto;
+  padding: 4px 12px;
+  text-align: center;
+  position: relative;
+}
+
+.btn:hover {
+  background-color: rgb(215, 215, 221);
+  color: #0f0f0f;
+}

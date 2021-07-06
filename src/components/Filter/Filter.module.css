@@ -1,0 +1,18 @@
+.label {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.input {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+  border-radius: 10px;
+}
+
+.input:focus {
+  background-color: lightblue;
+}
