@@ -96,3 +96,12 @@
   display: block;
   margin: 0 175px;
 }
+
+
+@media screen and (max-width: 768px) {
+  .header {
+  flex-direction: column;
+  height: 100px;
+
+  }
+}

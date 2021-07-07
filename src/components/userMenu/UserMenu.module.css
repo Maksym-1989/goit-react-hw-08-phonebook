@@ -35,3 +35,19 @@
   background-color: rgb(215, 215, 221);
   color: #0f0f0f;
 }
+
+
+@media screen and (max-width: 768px) {
+
+
+  .btn {
+    font-size: 12px;
+    width: 80px;
+    line-height: 10px;
+    margin: 20px auto;
+    padding: 4px 5px;
+    text-align: center;
+    position: relative;
+  }
+  
+}
