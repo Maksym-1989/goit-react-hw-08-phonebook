@@ -36,10 +36,7 @@
   color: #0f0f0f;
 }
 
-
 @media screen and (max-width: 768px) {
-
-
   .btn {
     font-size: 12px;
     width: 80px;
@@ -49,5 +46,4 @@
     text-align: center;
     position: relative;
   }
-  
 }

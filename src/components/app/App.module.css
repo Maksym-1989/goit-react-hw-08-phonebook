@@ -12,3 +12,11 @@
   margin-left: 45%;
   margin-top: 25%;
 }
+
+
+@media screen and (max-width: 768px) {
+  .spiner {
+    margin-left: 35%;
+    margin-top: 40%;
+  }
+  }
